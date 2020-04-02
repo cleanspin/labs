@@ -18,7 +18,7 @@ In the table below is an index of each exercise ordered by bootcamp module and w
 
 
 
-| Mod/Week | Lab                                                          | Language                   | Libraries                                                    | Topics/Methods                                               |
+| Mod/Week | Lab                                                          | Language                   | Libraries                                                    | Topics/Methods                                               |Review|Comments
 | -------- | ------------------------------------------------------------ | -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | M1-W1    | [resolving-git-conflicts](https://github.com/ricardozacarias/ironhack-labs/tree/master/M1-W1-lab-resolving-git-conflicts) | Git, Command Line, Bash    | -                                                            | GitHub, add, commit, push, pull, merge, conflicts, pull requests |
 | M1-W1    | [tuple-set-dict](https://github.com/ricardozacarias/ironhack-labs/tree/master/M1-W1-lab-tuple-set-dict) | Python                     | random, operator, pandas                                     | random.sample, operator.itemgetter, pd.DataFrame             |
