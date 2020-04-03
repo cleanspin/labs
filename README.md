@@ -21,11 +21,11 @@ In the table below is an index of each exercise ordered by bootcamp module and w
 | W1 | [tuple_set_dict](https://github.com/cleanspin/labs/tree/master/W1/tuple_set_dict) | Python | random, operator, pandas | random.sample, operator.itemgetter, pd.DataFrame | commented review |
 | W1 | [list_comprehensions](https://github.com/cleanspin/labs/tree/master/W1/list_comprehension) | Python | os, numpy, pandas | os.listdir, os.path.join, pd.concat,np.array, _get_numeric_data |  |
 | W1 | [string_operations](https://github.com/cleanspin/labs/tree/master/W1/string_operations) | Python | re, math | f-strings, str.lower, str.endswith, str.join, str.split, str.replace, re.findall, re.search, bag of words |  |
-| W1 | [lambda_functions](https://github.com/cleanspin/labs/tree/master/W1/lambda_functions) | Python | - | functions, lambda, zip, sorted, dict.items |  |
+| W1 | [lambda_functions](https://github.com/cleanspin/labs/tree/master/W1/lambda_functions) | Python | - | functions, lambda, zip, sorted, dict.items | commented review |
 | W1 | [numpy](https://github.com/cleanspin/labs/tree/master/W1/numpy) | Python | numpy, | np.random (random, rand, sample), np.ones, size, shape, np.reshape, np.transpose, np.array_equal, max, min, mean, np.empty, np.nditer, |  |
 | W1 | [functions](https://github.com/cleanspin/labs/tree/master/W1/functions) | Python | iter | functions, iterators, generators, yield |  |
 | W1 | [intro_pandas](https://github.com/cleanspin/labs/tree/master/W1/intro_pandas) | Python | pandas, numpy | pd.Series, pd.DataFrame, df.columns, subsetting, df.mean, df.max, df.median, df.sum |  |
-| W1 | [python_project](https://github.com/cleanspin/labs/tree/master/W1/python_project) | Python | inquirer, playsound | Escape Room python text game. functions, dictionaries, conditions |  |
+| W1 | [python_project](https://github.com/cleanspin/labs/tree/master/W1/python_project) | Python | inquirer, playsound | Escape Room python text game. functions, dictionaries, conditions | needs to be reviewed. code probably ugly |
 | W2 | [map_reduce_filter](https://github.com/cleanspin/labs/tree/master/W2/map_reduce_filter) | Python | numpy, pandas, functools | functions, map, reduce, filter |  |
 | W2 | [import_export](https://github.com/cleanspin/labs/tree/master/W2/import_export) | Python | pandas | pd.read_csv, pd.to_csv, pd.read_excel, df.head, df.value_counts |  |
 | W2 | [dataframe_calculations](https://github.com/cleanspin/labs/tree/master/W2/dataframe_calculations) | Python | pandas, numpy, zipfile | df.shape, df.unique, str.contains, df.astype, df.isnull, df.apply, df.sort_values, df.equals, pd.get_dummies, df.corr, df.drop, pd.groupby.agg, df.quantile, |  |
