@@ -18,7 +18,18 @@ In the table below is an index of each exercise ordered by bootcamp module and w
 | Week | Lab | Language | Libraries | Topics/Methods | Comments |
 |------|-----------------------------------------------------------------------------------------------------------------------------------|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
 | W1 | [resolving_git_conflicts](https://github.com/cleanspin/labs/tree/master/W1/resolving_git_conflicts) | Git, CLI, Bash | - | GitHub, add, commit, push, pull, merge, conflicts, pull requests |  |
-| W1 | [tuple_set_dict](https://github.com/cleanspin/labs/tree/master/W1/tuple_set_dict) | Python | random, operator, pandas | random.sample, operator.itemgetter, pd.DataFrame |  |
+| W1 | [tuple_set_dict](https://github.com/cleanspin/labs/tree/master/W1/tuple_set_dict) | Python | random, operator, pandas | random.sample, operator.itemgetter, pd.DataFrame | 
+me: 
+it's over 
+
+ironhack:
+Lab checked OK.
+Good job! sparkles
+
+Regarding your question in challenge 2: "The pop() method returns an arbitrary (random) element from the set. - according to the documentation so it shouldn't be removing the "first" element, but in reality the set is being ordered by size and it's removing the smallest element, challenge completed but i'm confused. I expected to have the ability to remove a random element, doesn't feel logical to me to think of sets as ordered"
+
+You're absolutely right: sets are unordered. Just because this one time, pop() seemingly returned the first element, there is no guarantee that it will do so in every occasion. Try running pop() with different sets and see what happens.
+ |
 | W1 | [list_comprehensions](https://github.com/cleanspin/labs/tree/master/W1/list_comprehension) | Python | os, numpy, pandas | os.listdir, os.path.join, pd.concat,np.array, _get_numeric_data |  |
 | W1 | [string_operations](https://github.com/cleanspin/labs/tree/master/W1/string_operations) | Python | re, math | f-strings, str.lower, str.endswith, str.join, str.split, str.replace, re.findall, re.search, bag of words |  |
 | W1 | [lambda_functions](https://github.com/cleanspin/labs/tree/master/W1/lambda_functions) | Python | - | functions, lambda, zip, sorted, dict.items |  |
