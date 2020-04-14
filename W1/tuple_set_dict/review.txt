@@ -1,0 +1,39 @@
+ cleanspin commented on Jan 25
+
+No description provided.
+Cleanspin added 4 commits on Jan 21
+Cleanspin
+first challenged done
+da4e37d
+Cleanspin
+challenge #2
+053bd26
+Cleanspin
+challenge 2 completed
+85ab9ca
+Cleanspin
+Challenge #3 done
+85faa13
+@cleanspin
+Author
+cleanspin commented on Jan 26
+
+it's over
+@cleanspin cleanspin closed this on Jan 26
+@ta-data-lis ta-data-lis added the enhancement label on Jan 27
+@ta-data-lis
+Owner
+ta-data-lis commented on Jan 27
+
+Lab checked OK.
+Good job! sparkles
+
+Regarding your question in challenge 2: "The pop() method returns an arbitrary (random) element from the set. - according to the documentation so it shouldn't be removing the "first" element, but in reality the set is being ordered by size and it's removing the smallest element, challenge completed but i'm confused. I expected to have the ability to remove a random element, doesn't feel logical to me to think of sets as ordered"
+
+    You're absolutely right: sets are unordered. Just because this one time, pop() seemingly returned the first element, there is no guarantee that it will do so in every occasion. Try running pop() with different sets and see what happens.
+
+@cleanspin
+Author
+cleanspin commented on Jan 27
+
+yes, I did run pop() multiple times but it was always getting ordered by size on integer sets. I can try it on a variable with a different type and check, but imagine I want to pop out a random integer, can't I use this method on sets for randompopping?

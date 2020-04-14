@@ -1,0 +1,31 @@
+ cleanspin commented on Jan 27
+
+check
+@cleanspin cleanspin closed this on Jan 27
+@ta-data-lis
+Owner
+ta-data-lis commented on Jan 30 •
+
+Hey Tiago,
+
+The notebook is pretty much empty (only challenge 2), so maybe you forgot to commit the final one...?
+
+Close this pull request again when you do +1
+@ta-data-lis ta-data-lis reopened this on Jan 30
+@cleanspin
+Author
+cleanspin commented on Feb 3
+
+:O I don't know what happened. Sorry, I think I might've ended doing the notebook, commited it and forgot to push before doing the pull request.
+@cleanspin cleanspin closed this on Feb 3
+@ta-data-lis
+Owner
+ta-data-lis commented on Feb 4
+
+Lab checked, good job!
+
+Challenge 1
+Try to check this for the second question, it may be useful:
+https://www.youtube.com/watch?v=oqMuzgsY_2k
+
+Keep up the good work!
